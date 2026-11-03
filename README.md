@@ -443,12 +443,6 @@
 - [7_Go的切片](Golang/Golang基础/7_Go的切片/README.md)
 - [8_Go的map](Golang/Golang基础/8_Go的map/README.md)
 - [9_Go的函数](Golang/Golang基础/9_Go的函数/README.md)
-- [CHANGELOG.md](Golang/Golang基础/Code/goProject/vendor/github.com/shopspring/decimal/CHANGELOG.md)
-- [decimal](Golang/Golang基础/Code/goProject/vendor/github.com/shopspring/decimal/README.md)
-- [gjson](Golang/Golang基础/Code/goProject/vendor/github.com/tidwall/gjson/README.md)
-- [SYNTAX.md](Golang/Golang基础/Code/goProject/vendor/github.com/tidwall/gjson/SYNTAX.md)
-- [match](Golang/Golang基础/Code/goProject/vendor/github.com/tidwall/match/README.md)
-- [pretty](Golang/Golang基础/Code/goProject/vendor/github.com/tidwall/pretty/README.md)
 
 ## Golang 进阶
 
